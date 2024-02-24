@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @sridevkp
+- 👋 Hi, I’m @Sridevk
 - 👀 I’m interested in coding, web dev, gamedev, and app dev
-- 🌱 I’m currently learning backend programming using nodejs, 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning nextjs and tensorflow and more tools
 
 <!---
 sridevkp/sridevkp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
